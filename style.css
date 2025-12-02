@@ -26,6 +26,9 @@ h1{
 h2{
     font-size: 40px;
 }
+.width{
+    width: 100%;
+}
 p{
     color: dimgray;
 }
